@@ -1,10 +1,10 @@
-        h2 {
+h2 {
             color: rgb(255, 255, 255);
         }  
         
         body {
             background-color: rgb(11,70,138);
         }
-        h1 { color: rbg(255, 255, 255); }
+        h1 { color: rgb(255, 255, 255); }
 
-p { color: rbg(255, 255, 255); }
+p { color: rgb(255, 255, 255); }
